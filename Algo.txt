@@ -1,0 +1,4 @@
+Decide which business to order from
+Decide what kind of pizza to order
+Enter home address
+Enter payment method
